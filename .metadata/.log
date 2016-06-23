@@ -1,0 +1,38 @@
+!SESSION 2016-06-23 14:35:31.312 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY com.salesforce.ide.core 2 0 2016-06-23 14:41:54.579
+!MESSAGE  WARN [2016-06-23 14:41:54,561] (ConnectionFactory.java:clearCache:209) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-06-23 14:41:54.584
+!MESSAGE  WARN [2016-06-23 14:41:54,583] (DescribeObjectRegistry.java:clearCache:654) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-06-23 14:41:54.588
+!MESSAGE  WARN [2016-06-23 14:41:54,587] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+
+!SESSION 2016-06-23 14:42:02.725 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY com.salesforce.ide.core 2 0 2016-06-23 14:43:45.741
+!MESSAGE  WARN [2016-06-23 14:43:45,734] (ConnectionFactory.java:clearCache:209) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-06-23 14:43:45.748
+!MESSAGE  WARN [2016-06-23 14:43:45,745] (DescribeObjectRegistry.java:clearCache:654) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-06-23 14:43:45.752
+!MESSAGE  WARN [2016-06-23 14:43:45,752] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+
